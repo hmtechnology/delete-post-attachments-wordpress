@@ -1,6 +1,3 @@
-# delete-post-attachments-wordpress
-a function to delete automatically all attachments and featured image when a post is deleted in WordPress
-
 # Delete Post Attachments WordPress
 
 A WordPress function to automatically delete all attachments and featured image when a post is permanently deleted.
