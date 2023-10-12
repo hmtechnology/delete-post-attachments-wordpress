@@ -30,7 +30,7 @@ You can include this function in your WordPress project by copying the code into
 
 2. Inside the folder, create a new PHP file, e.g., `delete-post-attachments.php`.
 
-3. Paste the code from the `delete-post-attachments.php` file into `delete-post-attachments.php`.
+3. Paste the code from the `delete-post-attachments.php` file into `delete-post-attachments.php` and make sure to include header comment that provides information about the plugin.
 
 4. Activate the plugin from the WordPress admin panel.
 
