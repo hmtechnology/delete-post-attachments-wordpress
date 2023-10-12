@@ -36,6 +36,14 @@ You can include this function in your WordPress project by copying the code into
 
 5. Activate the plugin from the WordPress admin panel.
 
+## Contributing
+
+Contributions are welcome! If you have any improvements or new features to suggest, please open an issue or submit a pull request. We appreciate your feedback.
+
 ## License
 
 This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
+
+## Author
+
+This function is maintained by [hmtechnology](https://github.com/hmtechnology).
