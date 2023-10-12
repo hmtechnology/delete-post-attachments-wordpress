@@ -1,5 +1,7 @@
 # Delete Post Attachments WordPress
 
+![GitHub](https://img.shields.io/github/license/hmtechnology/delete-post-attachments-wordpress)
+
 A WordPress function to automatically delete all attachments and featured image when a post is permanently deleted.
 
 ## Usage
